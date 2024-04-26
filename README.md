@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,html,css,js,spring,mysql,docker,idea,vscode,git,github,notion&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,html,css,js,spring,mysql,docker&theme=light)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,notion&theme=light)](https://skillicons.dev)
