@@ -2,6 +2,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Nation : KR-000000?style=flat-square&logoColor=FFFFFF"/></a>
 <a href="[링크](https://velog.io/@chrios99/posts)"><img src="https://img.shields.io/badge/Blog-008000?style=flat-square&logo=velog&logoColor=A0D468"/></a>
+<a href="https://mail.google.com/mail/u/0" target="_blank"><img src="https://img.shields.io/badge/chriosdort77@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
 ### Skills
