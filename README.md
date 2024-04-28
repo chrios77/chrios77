@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Nation : KR-000000?style=flat-square&logoColor=FFFFFF"/></a>
+<a href="[링크](https://velog.io/@chrios99/posts)"><img src="https://img.shields.io/badge/Blog-008000?style=flat-square&logo=velog&logoColor=A0D468"/></a>
+
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,html,css,js,spring,mysql,docker&theme=light)](https://skillicons.dev)
