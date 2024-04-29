@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Nation : KR-000000?style=flat-square&logoColor=FFFFFF"/></a>
+<a href="https://parkjeuk.notion.site/d0b2bdb794da4749a71b8bd60147f1a8" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@chrios99/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 <a href="https://mail.google.com/mail/u/0" target="_blank"><img src="https://img.shields.io/badge/chriosdort77@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
