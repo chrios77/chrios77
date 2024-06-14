@@ -13,7 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,notion&theme=light)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrios77&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrios77&layout=compact&theme=dracula)
 
 <!--
