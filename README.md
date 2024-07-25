@@ -2,7 +2,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Nation : KR-000000?style=flat-square&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@chrios99/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
-<a href="https://mail.google.com/mail/u/0" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="https://mail.google.com/mail/u/0" target="_blank"><img src="https://img.shields.io/badge/chriosdort77gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrios77&show_icons=true&theme=flag-india)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrios77&layout=compact&theme=flag-india)
