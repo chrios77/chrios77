@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Nation : KR-000000?style=flat-square&logoColor=FFFFFF"/></a>
-<a href="https://velog.io/@chrios99/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://chrios77.github.io/"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=github&logoColor=FFFFFF"/></a>
 
 <!--
 **chrios77/chrios77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
